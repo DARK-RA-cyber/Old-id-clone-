@@ -29,8 +29,7 @@ python old.py
 
 
 #### SCREENSHOT: ⬇️
-![logo](https://github.com/https://github.com/DARK-RA-cyber/Old-id-clone-/blob/main/IMG_20240828_213119.jpg)
+![logo](https://github.com/DARK-RA-cyber/Old-id-clone-/blob/main/IMG_20240828_213119.jpg)
 
 <h3> follow me my Facebook  For Tool's Password</h3>
 <h5>id  Link➛ <a href="https://www.facebook.com/MUHAMMAD.RONI.AKONDO?mibextid=ZbWKwL">Click Here</a></h5>
-
