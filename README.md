@@ -22,7 +22,7 @@ pip install mechanize
 pkg install git 
 pip install bs4
 git clone https://github.com/DARK-RA-cyber/Old-id-clone-
-cd Old-id
+cd Old-id-clone-
 python old.py
 ```
 
