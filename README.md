@@ -37,7 +37,3 @@ python old.py
 
 
 
-#### TOOLS user name and password :
-
-user name : DARK 
-password : RA
