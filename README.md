@@ -27,7 +27,15 @@ python old.py
 ```
 
 
+# Tool USER NAME :â¬‡ï¸
+```
+DARK
+```
 
+# Tool Password:â¬‡ï¸
+```
+RA
+```
 #### SCREENSHOT: ⬇️
 ![logo](https://github.com/DARK-RA-cyber/Old-id-clone-/blob/main/IMG_20240828_213119.jpg)
 
